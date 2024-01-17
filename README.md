@@ -28,27 +28,28 @@ I am a passionate and detail-oriented student with a strong background in C, C++
 
 ### Project 1: Healthy-You
 
-- **Description:** Brief description of the project.
-- **Technologies Used:** List technologies, languages, and tools used.
-- **Link:** [GitHub Repository or Live Demo link]
+- **Description:** Healthy-You is a responsive medical web-portal which provides access to various health blogs, online doctor consultation and pharmacy.
+- **Technologies Used:** `HTML`, `CSS` & `JavaScript`
+- **Link:** [GitHub Repository](https://github.com/mounishvatti/healthy-you)
 
 ### Project 2: MediPal
 
-- **Description:** Brief description of the project.
-- **Technologies Used:** List technologies, languages, and tools used.
-- **Link:** [GitHub Repository or Live Demo link]
+- **Description:** Flask and machine learning-based web application that predicts the possibility of multiple diseases. It leverages a trained machine learning model to provide accurate predictions based on input data.
+- **Technologies Used:** `Python`, `Flask`, `HTML/CSS/JavaScript`, `Machine Learning` (ML) libraries (e.g., `scikit-learn`, `TensorFlow`, `PyTorch`)
+- **Link:** [GitHub Repository](https://github.com/mounishvatti/Medipal)
 
 
 ## Education
 
 - **Integrated MTech, Vellore Institute of Technology, 2025**
-  - Relevant courses: [List any relevant courses]
+  - Relevant courses: Computer Science & Engineering 
 
-[Add more educational experiences as needed]
-
+- **Intermediate, Sasi Junior College, 2020**
+  - Relevant courses: Maths, Physics & Chemistry
+    
 ## Contact
 
-Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm open to collaboration, networking, and discussing exciting opportunities!
+Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/mounish-vatti-47b5961bb/]). I'm open to collaboration, networking, and discussing exciting opportunities!
 
 Thank you for visiting my portfolio!
 

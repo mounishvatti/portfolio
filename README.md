@@ -18,10 +18,10 @@ I am a passionate and detail-oriented student with a strong background in C, C++
 
 ## Skills
 
-- **Programming Languages:** [C, C++, Java & Python]
-- **Web Technologies:** [HTML, CSS, JavaScript]
-- **Frameworks & Libraries:** [Angular, React]
-- **Database Management:** [SQL, MySQL Workbench]
+- **Programming Languages:** [`C`, `C++`, `Java` & `Python`]
+- **Web Technologies:** [`HTML`, `CSS`, `JavaScript`]
+- **Frameworks & Libraries:** [`Angular`, `React`, `numpy`, `pandas`]
+- **Database Management:** [`SQL`, `MySQL Workbench`]
 - **Other Skills:** [Any additional skills]
 
 ## Projects

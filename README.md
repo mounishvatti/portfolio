@@ -42,14 +42,18 @@ I am a passionate and detail-oriented student with a strong background in C, C++
 ## Education
 
 - **Integrated MTech, Vellore Institute of Technology, 2025**
-  - Relevant courses: Computer Science & Engineering 
+  - Computer Science & Engineering 
 
 - **Intermediate, Sasi Junior College, 2020**
-  - Relevant courses: Maths, Physics & Chemistry
+  - Maths, Physics & Chemistry
+
+- **10th, Bharatiya Vidya Bhavans, 2018**
+  - CBSE
     
 ## Contact
 
-Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mounish-vatti-47b5961bb/). 
+Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mounish-vatti-47b5961bb/).
+<br>
 I'm open to collaboration, networking, and discussing exciting opportunities!
 
 Thank you for visiting my portfolio!

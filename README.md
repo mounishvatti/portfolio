@@ -10,7 +10,6 @@ Welcome to my portfolio! This repository showcases my skills, projects, and expe
 - [Skills](#skills)
 - [Projects](#projects)
 - [Education](#education)
-- [Work Experience](#work-experience)
 - [Contact](#contact)
 
 ## About Me

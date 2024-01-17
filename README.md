@@ -49,7 +49,8 @@ I am a passionate and detail-oriented student with a strong background in C, C++
     
 ## Contact
 
-Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mounish-vatti-47b5961bb/). I'm open to collaboration, networking, and discussing exciting opportunities!
+Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mounish-vatti-47b5961bb/). 
+I'm open to collaboration, networking, and discussing exciting opportunities!
 
 Thank you for visiting my portfolio!
 

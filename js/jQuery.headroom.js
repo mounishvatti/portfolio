@@ -4,10 +4,6 @@
     return;
   }
 
-  ////////////
-  // Plugin //
-  ////////////
-
   $.fn.headroom = function(option) {
     return this.each(function() {
       var $this   = $(this),
@@ -30,10 +26,6 @@
       }
     });
   };
-
-  //////////////
-  // Data API //
-  //////////////
 
   $('[data-headroom]').each(function() {
     var $this = $(this);

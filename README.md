@@ -1,4 +1,5 @@
 # Mounish's Portfolio
+<img width="1046" alt="Screenshot 2024-01-24 at 1 31 53 PM" src="https://github.com/mounishvatti/portfolio/assets/76279858/8091153f-ed0f-4074-9e95-ed62752a043f">
 
 ## Overview
 

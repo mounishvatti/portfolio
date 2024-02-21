@@ -43,8 +43,10 @@
   -webkit-touch-callout: none;
 }
 .owl-carousel .owl-item img {
+  border-radius: 20px;
   display: block;
-  width: 100%;
+  height: auto;
+  max-width:100%;
 }
 .owl-carousel .owl-dots.disabled,
 .owl-carousel .owl-nav.disabled {
@@ -177,3 +179,5 @@
   height: 100%;
   width: 100%;
 }
+
+

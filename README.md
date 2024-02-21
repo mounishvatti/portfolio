@@ -1,17 +1,8 @@
 # Mounish's Portfolio
-<img width="1046" alt="Screenshot 2024-01-24 at 1 31 53 PM" src="https://github.com/mounishvatti/portfolio/assets/76279858/8091153f-ed0f-4074-9e95-ed62752a043f">
 
 ## Overview
 
 Welcome to my portfolio! This repository showcases my skills, projects, and experience as a student in the field of Computer Science and Engineering. Feel free to explore and get to know more about me.
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Education](#education)
-- [Contact](#contact)
 
 ## About Me
 
@@ -19,43 +10,28 @@ I am a passionate and detail-oriented student with a strong background in C, C++
 
 ## Skills
 
-- **Programming Languages:** [`C`, `C++`, `Java` & `Python`]
-- **Web Technologies:** [`HTML`, `CSS`, `JavaScript`]
-- **Frameworks & Libraries:** [`Angular`, `React`, `numpy`, `pandas`]
-- **Database Management:** [`SQL`, `MySQL Workbench`]
-- **Other Skills:** [Any additional skills]
-
-## Projects
-
-### Project 1: Healthy-You
-
-- **Description:** Healthy-You is a responsive medical web-portal which provides access to various health blogs, online doctor consultation and pharmacy.
-- **Technologies Used:** `HTML`, `CSS` & `JavaScript`
-- **Link:** [Healthy-You GitHub Repository](https://github.com/mounishvatti/healthy-you)
-
-### Project 2: MediPal
-
-- **Description:** Flask and machine learning-based web application that predicts the possibility of multiple diseases. It leverages a trained machine learning model to provide accurate predictions based on input data.
-- **Technologies Used:** `Python`, `Flask`, `HTML/CSS/JavaScript`, `Machine Learning` (ML) libraries (e.g., `scikit-learn`, `TensorFlow`, `PyTorch`)
-- **Link:** [MediPal GitHub Repository](https://github.com/mounishvatti/Medipal)
-
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51.svg?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white) 
+![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) 
 
 ## Education
 
-- **Integrated MTech, Vellore Institute of Technology, 2025**
-  - Computer Science & Engineering 
+### 🎓 VIT, Vellore (2020 - present)
+  - Integrated MTech Computer Science & Engineering
 
-- **Intermediate, Sasi Junior College, 2020**
-  - Maths, Physics & Chemistry
-
-- **10th, Bharatiya Vidya Bhavans, 2018**
-  - CBSE
-    
 ## Contact
 
-Feel free to reach out to me via [Email](mailto:mounishvatti2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mounish-vatti-47b5961bb/).
-<br>
-I'm open to collaboration, networking, and discussing exciting opportunities!
+### Feel free to reach out to me via 
 
-Thank you for visiting my portfolio!
+<a href="https://twitter.com/mounish_vatti" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mounish_vatti-x"/></a>
+<a href="https://linkedin.com/in/mounish-vatti" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="mounishvatti-linkedin"/></a>
+<a href="https://instagram.com/mounishvatti" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="mounishvatti-instagram"/></a>
+
+### I'm open to collaboration, networking, and discussing exciting opportunities!
+
 
